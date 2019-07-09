@@ -1,4 +1,4 @@
-# Android Braintree接入
+# Android Braintree(Paypal)使用教程
 
 > Braintree是海外支付整合的公司,支持信用卡,Paypal,Appple pay等支付方式
 
